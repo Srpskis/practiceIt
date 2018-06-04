@@ -1,0 +1,36 @@
+Write a complete Java program in a class named Spikey that prints the following output:
+
+  \/
+ \\//
+\\\///
+///\\\
+ //\\
+  /\
+  
+  SOLUTION:
+  
+  public class Spikey {
+
+    public static void main(String[] args) {
+
+        top();
+        bottom();
+
+    }
+
+    public static void top(){
+
+        System.out.println("  \\/");
+        System.out.println(" \\\\//");
+        System.out.println("\\\\\\///");
+
+    }
+    
+    public static void bottom(){
+
+        System.out.println("///\\\\\\");
+        System.out.println(" //\\\\");
+        System.out.println("  /\\");
+
+    }
+}
