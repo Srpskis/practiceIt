@@ -8,3 +8,7 @@ public static void oddStuff() {
         number = number / 2;
     }   
 }
+
+ANSWER:
+4
+2
