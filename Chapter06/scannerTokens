@@ -1,0 +1,5 @@
+Given this line of input, what tokens does a Scanner break the line apart into?
+welcome...to the matrix.
+
+Solution:
+welcome...to", "the", "matrix."
