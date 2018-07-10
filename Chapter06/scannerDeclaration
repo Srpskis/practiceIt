@@ -1,0 +1,5 @@
+Change the following code to be correct:
+Scanner input = new Scanner("test.dat");
+
+Solution:
+Scanner input = new Scanner(new File("test.dat"));
